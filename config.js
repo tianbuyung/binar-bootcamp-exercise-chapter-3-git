@@ -1,5 +1,5 @@
 const config = {
-    configRegister: true,
+    configRegister: false,
     configLogin:true,
 }
 
