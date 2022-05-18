@@ -1,6 +1,6 @@
 const config = {
     configRegister: false,
-    configLogin:true,
+    configLogin:false,
 }
 
 module.export = config;
